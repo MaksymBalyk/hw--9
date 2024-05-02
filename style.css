@@ -1,8 +1,47 @@
-body {
-    font-family: 'Roboto', sans-serif;
+a {
+    text-decoration: none;
 }
 
-h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700; 
+a {
+    color: black;
+}
+
+.studio {
+    color: inherit;
+}
+
+.studio {
+    font: "bold";
+}
+
+footer {
+    color: white;
+    background-color:rgb(47,48,58);
+}
+
+span {
+    color: blue;
+}
+
+.email {
+    opacity: 0.6;
+}
+.email2 {
+    opacity: 0.6;
+}
+
+.tel2 {
+    color: rgb(255,255,255,60%);
+}
+
+nav {
+    font-family:'Raleway' ;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+footer {
+    font-family: 'Raleway';
 }
