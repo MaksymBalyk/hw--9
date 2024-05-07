@@ -1,41 +1,28 @@
-a {
-    text-decoration: none;
+.logoweb{
+    color:#2196F3;
 }
-
-a {
+header a{
     color: black;
 }
-
-.studio {
-    color: inherit;
+.banner{
+    background-color: #2F303A;
+    color: #ffffff;
 }
-
-.studio {
-    font: "bold";
+.button{
+   background-color:#2196F3;
+   color: #ffffff;
 }
-
-footer {
-    color: white;
-    background-color:rgb(47,48,58);
+.logoweb{
+    color: #2196F3;
 }
-
-span {
-    color: blue;
+address a{
+    color: #FFFFFF60;
 }
-
-.email {
-    opacity: 0.6;
+.banner a{
+    background-color: #2F303A;
 }
-.email2 {
-    opacity: 0.6;
-}
-
-.tel2 {
-    color: rgb(255,255,255,60%);
-}
-
-nav {
-    font-family:'Raleway' ;
+footer>a{
+    color: #FFFFFF;
 }
 
 body {
@@ -44,4 +31,10 @@ body {
 
 footer {
     font-family: 'Raleway';
+}
+
+header>a {
+    font-family: "Raleway",sans-serif;
+    font-size: 26px;
+    font-weight: 700;
 }
