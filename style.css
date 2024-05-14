@@ -11,14 +11,3 @@ body :not(.logo) {
 a:hover:not(.logo.logo2) {
     color: rgb(56, 158, 226);
 }
-.content {
- background-color: #2F303A;
-}
-.content h1 {
-    color:white;
-}
-.content button {
-    background-color: #2196F3;
-    box-shadow: 8px 4px 4px 0px #00000026;
-    color: white;
-}
